@@ -16,6 +16,8 @@ int main()
         printf("%d, ",arr[i]);
     }
     int x, pos;
+
+    printf("this is a insertingjdfnvernvonadfvn")
     printf("\n enter the inserted value: ");
     scanf("%d",&x);
     printf("\n enter the inserted position: ");
