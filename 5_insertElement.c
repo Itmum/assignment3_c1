@@ -4,7 +4,7 @@ int main()
 {
 
     int n,i;
-    printf("enter the size of the array: ");
+
     scanf("%d",&n);
     int arr[n];
     for(i=0;i<n;i++)
@@ -17,7 +17,6 @@ int main()
     }
     int x, pos;
 
-    printf("this is a insertingjdfnvernvonadfvn")
     printf("\n enter the inserted value: ");
     scanf("%d",&x);
     printf("\n enter the inserted position: ");
